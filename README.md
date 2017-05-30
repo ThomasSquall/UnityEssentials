@@ -20,7 +20,7 @@ if (TouchManager.ScreenTouched()) Debug.Log("Screen touched");
 In the second example each time the Screen will be touched The "Screen touched" string will be written to the console.
 Some other methods can be found inside the TouchManager class.
 
-## GameStateManager
+### GameStateManager
 The GameStateManager helps you to Save and Load the game very easily and efficiently.
 It serialize and deserialize the GameVariables class using the core PlayerPrefs functions of Unity.
 Let's say for example that you have created a GameVariable called *MoneyAmount* using the following syntax:
