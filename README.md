@@ -6,6 +6,8 @@ Essentials scripts for Unity.
 **Creator:** Thomas Cocchiara aka ThomasSquall
 
 ## Usage
+**NOTE: a GameManager object should be always be present in your scene to make some functionality work fine**
+
 ### TouchManager
 The TouchManager utility allows you to fasten develop touch based games, it is also capable to use the mouse click when in Unity Editor to help you debug better.
 
