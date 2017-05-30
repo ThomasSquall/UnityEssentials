@@ -1,6 +1,8 @@
 # UnityEssentials
 Essentials scripts for Unity.
+
 **Version:** 0.0.1
+
 **Creator:** Thomas Cocchiara aka ThomasSquall
 
 ## Usage
